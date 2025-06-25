@@ -1,14 +1,14 @@
-# AutoCAD WoW-Style Hotkeys 🎮
+# AutoCAD WoW-Style Hotkeys
 
 Transform your boring AutoCAD workflow into an epic gaming experience! This AutoHotkey script brings MMO-style keybindings to AutoCAD LT, making drafting feel more like casting spells in Azeroth.
 
-## 🚀 Quick Setup
+## Quick Setup
 1. Install AutoHotkey v2.0
 2. Run the script
 3. Open AutoCAD
 4. Start dominating your drawings!
 
-## ⚡ Power Moves
+## Power Moves
 
 **Combat Actions:**
 - `Tab` → Quick Execute (Enter)
@@ -35,4 +35,4 @@ Transform your boring AutoCAD workflow into an epic gaming experience! This Auto
 - `X+W` → UCS command
 - `X+E` → Plan view
 
-Ready to level up your CAD game? 🏗️⚔️
+Ready to level up your CAD game? 
