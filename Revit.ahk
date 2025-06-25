@@ -42,26 +42,18 @@ Numpad3::Send "ZA"      ; Zoom All
 
 #HotIf
 
-; === ROZWIĄZYWANIE PROBLEMÓW ===
-; 1. Najpierw sprawdź czy skrypt działa: Ctrl+Shift+D
-; 2. Upewnij się, że nie jesteś w oknie dialogowym Revita
-; 3. Spróbuj ręcznie wpisać "ZF" w Revicie - czy działa?
-; 4. Jeśli nie, ustaw skrót w: View -> User Interface -> Keyboard Shortcuts
-; 5. Możesz też spróbować użyć pełnych komend Revita:
-;    - "UN" dla Undo
-;    - "RE" dla Redo  
-;    - "MV" dla Move
-; 6. Uruchom AutoHotkey jako Administrator
-; 7. Wyłącz antywirus na chwilę testu
+; === ZMIENIEONE WEWNĄTRZ REVITA ===
+; SHIFT+Q / ZF / ZX - Zoom to Fit
+; F3 / SO - Snap Off
+; SHIFT+3 - Measure:Measure Between Two Referencses
+; SHIFT+2 / S2 - Mid Between 2 Poinst Snap
+; RQ - Reset Temporary Hide/Isolat Unisolate
+; RQ - Isolate Elesemnt
+; SHIFT+4 / OF - Offset
 
-; === ALTERNATYWNE ROZWIĄZANIE ===
-; Jeśli nadal nie działa, możesz użyć natywnych skrótów Revita:
-; W Revicie idź do: View -> User Interface -> Keyboard Shortcuts
-; I przypisz:
-; - Alt+Q do "Zoom To Fit" (ZF)
-; - Shift+Q do "Isolate Elements" (HI)
-; - Shift+W do "Reset Temporary Hide/Isolate" (HR)
-; - Ctrl+Q do "Isolate Category" (IC)
+
+
+
 
 ; === PRZYDATNE SKRÓTY REVIT (do wykorzystania) ===
 ; VH - Hide in View
