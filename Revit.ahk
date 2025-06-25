@@ -52,6 +52,15 @@ Numpad3::Send "ZA"      ; Zoom All
 ; SHIFT+4 / OF - Offset
 
 
+; === TO DO ===
+; Align to Current vies -
+; Close Inactive views - 
+; Filtr Selection -
+; select all instances in current view shift + e
+; section 
+; przeskakiwanie widoków lewo prawo
+; 
+
 
 
 
