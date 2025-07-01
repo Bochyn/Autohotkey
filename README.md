@@ -1,6 +1,6 @@
 # AutoCAD WoW-Style Hotkeys
 
-Transform your boring AutoCAD workflow into an epic gaming experience! This AutoHotkey script brings MMO-style keybindings to AutoCAD LT, making drafting feel more like casting spells in Azeroth.
+Transform your boring AutoCAD workflow into an epic gaming experience! This AutoHotkey script brings MMO-style keybindings to AutoCAD, making drafting feel more like casting spells in Azeroth.
 
 ## Quick Setup
 1. Install AutoHotkey v2.0
